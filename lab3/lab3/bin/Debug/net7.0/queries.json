@@ -1,0 +1,12 @@
+[
+  {
+    "IndexOperation": 3,
+    "Input": "21/08/2024",
+    "Result": "The day of the week for 8/21/2024 is Wednesday."
+  },
+  {
+    "IndexOperation": 1,
+    "Input": "2021",
+    "Result": "2021 is not a leap year."
+  }
+]
